@@ -1,14 +1,15 @@
-MiniArcade
+## MiniArcade
 
-[![MiniArcade video](https://www.youtube.com/watch?v=UotAsQmeLYA/0.jpg)](https://www.youtube.com/watch?v=UotAsQmeLYA)
+Demo video:
+https://www.youtube.com/watch?v=UotAsQmeLYA
 
 Hardware:
-	- Raspberry pi 3 
-	- Custom PCB for controller and leds (Schematic folder)
-	- Display: BT035ABCBHB352a$ (3.5" Color TFT-LCD video module.)
-	
+* Raspberry pi 3 	
+* Custom PCB for controller and leds (Schematic folder)
+* Display: BT035ABCBHB352a$ (3.5" Color TFT-LCD video module.)
+		
 Software:
-	- Retropie
+* Retropie
 
 
 How to connect PCB to RB Pi:
