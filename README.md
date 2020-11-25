@@ -18,11 +18,19 @@ https://learn.adafruit.com/retro-gaming-with-raspberry-pi/adding-controls-hardwa
 http://www.instructables.com/id/Make-Joystic-for-Retropie/
 
 MiniArcade config:
-	GPIO06 - B
-	GPIO12 - LED
-	GPIO13 - START
-	GND    - GND
-	GPIO19 - A
-	GPIO16 - LEFT
-	GPIO26 - DOWN
-	GPIO21 - RIGHT
+
+
+| GPIOXX | BUTTON|
+|--------|-------|
+| GPIO06 | B     |
+| GPIO12 | LED   |
+| GPIO13 | START |
+| GND    | GND   |
+| GPIO19 | A     |
+| GPIO16 | LEFT  |
+| GPIO26 | DOWN  |
+| GPIO21 | RIGHT |
+
+
+
+![](Img/Miniarcade_Portal.jpg)
